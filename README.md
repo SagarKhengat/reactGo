@@ -22,7 +22,7 @@ _Formerly known as choonkending/react-webpack-node_
 #### Demo site: [**https://demo-reactgo.herokuapp.com/**](https://demo-reactgo.herokuapp.com/)
 
 ## Features:
-- ~~isomorphic~~ [**universal**](https://medium.com/@ghengeveld/isomorphism-vs-universal-javascript-4b47fb481beb#.4x2t3jlmx) Rendering
+- [**universal**](https://medium.com/@ghengeveld/isomorphism-vs-universal-javascript-4b47fb481beb#.4x2t3jlmx) Rendering
 - [**Redux**](https://github.com/reactjs/redux) Predictive state containers.
 - Server-side rendering with [**React Router**](https://github.com/reactjs/react-router) 2.x. Having server-side rendering allows you to pre-render the initial state of your components when a user (or search engine crawler) requests a page.
 - Integrating Redux with React Router with ~~Redux Simple Router~~ [React Router Redux](https://github.com/reactjs/react-router-redux)
